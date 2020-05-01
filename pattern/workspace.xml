@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1514bdb7-ec77-4ae2-9d78-9f098db0cd1b" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1b81tT3bQ5U8GiF7iVuV28KOzbq" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Problems" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RunManager">
+    <configuration name="MainFrame" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pattern.MainFrame" />
+      <module name="pattern" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pattern.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.MainFrame" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1514bdb7-ec77-4ae2-9d78-9f098db0cd1b" name="Default Changelist" comment="" />
+      <created>1587999120461</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1587999120461</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="97" y="15" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1588000196294">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="97" y="15" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.720@0.0.1280.720" timestamp="1588000196294" />
+    <state x="422" y="115" key="FileChooserDialogImpl" timestamp="1588000246717">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="422" y="115" key="FileChooserDialogImpl/0.0.1280.720@0.0.1280.720" timestamp="1588000246717" />
+    <state width="1238" height="99" key="GridCell.Tab.0.bottom" timestamp="1588003491465">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state width="1238" height="99" key="GridCell.Tab.0.bottom/0.0.1280.720@0.0.1280.720" timestamp="1588003491465" />
+    <state width="1238" height="99" key="GridCell.Tab.0.center" timestamp="1588003491465">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state width="1238" height="99" key="GridCell.Tab.0.center/0.0.1280.720@0.0.1280.720" timestamp="1588003491465" />
+    <state width="1238" height="99" key="GridCell.Tab.0.left" timestamp="1588003491465">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state width="1238" height="99" key="GridCell.Tab.0.left/0.0.1280.720@0.0.1280.720" timestamp="1588003491465" />
+    <state width="1238" height="99" key="GridCell.Tab.0.right" timestamp="1588003491465">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state width="1238" height="99" key="GridCell.Tab.0.right/0.0.1280.720@0.0.1280.720" timestamp="1588003491465" />
+    <state width="1238" height="99" key="GridCell.Tab.1.bottom" timestamp="1588003491465">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state width="1238" height="99" key="GridCell.Tab.1.bottom/0.0.1280.720@0.0.1280.720" timestamp="1588003491465" />
+    <state width="1238" height="99" key="GridCell.Tab.1.center" timestamp="1588003491465">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state width="1238" height="99" key="GridCell.Tab.1.center/0.0.1280.720@0.0.1280.720" timestamp="1588003491465" />
+    <state width="1238" height="99" key="GridCell.Tab.1.left" timestamp="1588003491465">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state width="1238" height="99" key="GridCell.Tab.1.left/0.0.1280.720@0.0.1280.720" timestamp="1588003491465" />
+    <state width="1238" height="99" key="GridCell.Tab.1.right" timestamp="1588003491465">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state width="1238" height="99" key="GridCell.Tab.1.right/0.0.1280.720@0.0.1280.720" timestamp="1588003491465" />
+    <state x="127" y="0" key="SettingsEditor" timestamp="1588003375627">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="127" y="0" key="SettingsEditor/0.0.1280.720@0.0.1280.720" timestamp="1588003375627" />
+    <state x="211" y="89" width="858" height="628" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1588000171780">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="211" y="89" width="858" height="628" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1280.720@0.0.1280.720" timestamp="1588000171780" />
+    <state x="298" y="161" key="run.anything.popup" timestamp="1588000356521">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="298" y="161" key="run.anything.popup/0.0.1280.720@0.0.1280.720" timestamp="1588000356521" />
+  </component>
+</project>
